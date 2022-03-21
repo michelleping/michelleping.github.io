@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>GENSHIN BUILD</title>
+            <h1>Greetings Travelers! Are you confused on how to build your 5 stars? We can help!</h1>
+            <a href ="newpage"> <button>Menu</button>
+              <button type=”button”>Character List</button>
+              <button type=”button”>About Us</button>
+              <img src=”https://preview.redd.it/vswgboq5vz561.png?width=640&crop=smart&auto=webp&s=a722556de50dd6b286b0419014c5ef011e163712” alt= “Paimon Happy”>
+              <img src=”https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Icon_Emoji_001_Paimon_No_problem%21.png/revision/latest/scale-to-width-down/250?cb=20210906043823” alt= “Paimon Muscle”>
+              <p>DESCRIPTION STILL DK WHAT</p>
+              <img src=”https://64.media.tumblr.com/e4ad8dc771d78ea49f11fb1a3360f9f8/d900fba9b3ad6ca6-a5/s400x600/c040a833ad71b7309bce04c20d70a8ea658133ff.png” alt= “Paimon Chest”>
+              <img src=”https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Character_Paimon_Portrait.png/revision/latest/scale-to-width-down/668?cb=20201205191049” alt= “Paimon Waving Hello”>
+
+        </head>
+        <body>
+        <div class=”menu” id=”menu”>
+          <img src="https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg/revision/latest/scale-to-width-down/512?cb=20220119211508" alt=”Cryo Symbol”>
+          <p>Cryo</p>
+      <img src="https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/revision/latest/scale-to-width-down/512?cb=20220119211527" alt=”Pyro Symbol”>
+      <p>Pyro</p>
+      <img src="https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg/revision/latest/scale-to-width-down/512?cb=20220119211128" alt=”Anemo Symbol”>
+    <p>Anemo</p>
+    <img src="https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg/revision/latest/scale-to-width-down/512?cb=20220119211105" alt=”Geo Symbol”>
+    <p>Geo</p>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg/revision/latest/scale-to-width-down/512?cb=20220119211156" alt=”Electro Symbol”>
+<p>Electro</p>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg/revision/latest/scale-to-width-down/512?cb=20220119211435" alt=”Hydro Symbol”>
+<p>Hydro</p>
+</div>
+<div class=”cryo page” id=”cryopage”>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Character_Eula_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210511040616https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Character_Eula_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210511040616" alt=”Eula”>
+<p>Eula</p>
+<img src= “https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Character_Ganyu_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210213162851” alt=”Ganyu”>
+<p>Ganyu</p>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Character_Kamisato_Ayaka_Thumb.png/revision/latest/scale-to-width-down/256?cb=20211221231648" alt=”Ayaka”>
+<p>Ayaka</p>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/5/58/Character_Shenhe_Thumb.png/revision/latest/scale-to-width-down/256?cb=20220210034241" alt=”Shenhe”>
+<p>Shenhe</p>
+<img src=“https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Character_Qiqi_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210213163325” alt=”Qiqi”>
+<p>Qiqi</p>
+
+</div>
+<div class=”pyro page” id=”pyropage”>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Character_Hu_Tao_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210228210611 " alt=”Hutao”>
+<p>Hutao</p>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/0/05/Character_Yoimiya_Thumb.png/revision/latest/scale-to-width-down/256?cb=20220214235604  " alt=”Yoimiya”>
+<p>Yoimiya</p>
+
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Character_Klee_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210214011911 " alt=”Klee”>
+<p>Klee</p>
+
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/0/02/Character_Diluc_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210213163824 " alt=”Diluc”>
+<p>Diluc</p>
+
+</div>
+<div class=”eula build page” id=”eulapage”>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Character_Eula_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210511040616https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Character_Eula_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210511040616" alt=”Eula”>
+
+<img src= “https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Character_Ganyu_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210213162851” alt=”Ganyu”>
+<p>Ganyu</p>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Character_Kamisato_Ayaka_Thumb.png/revision/latest/scale-to-width-down/256?cb=20211221231648" alt=”Ayaka”>
+<p>Ayaka</p>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/5/58/Character_Shenhe_Thumb.png/revision/latest/scale-to-width-down/256?cb=20220210034241" alt=”Shenhe”>
+<p>Shenhe</p>
+<img src=“https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Character_Qiqi_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210213163325” alt=”Qiqi”>
+<p>Qiqi</p>
+
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Stainless_Bloom.png/revision/latest/scale-to-width-down/256?cb=20210416205644 " alt=”Pale Flame”>
+<p>Pale Flame</p>
+
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Entangling_Bloom.png/revision/latest/scale-to-width-down/256?cb=20210721030058 " alt=”Shimenawa’s Reminiscence”>
+<p>Shimenawa’s Reminiscence</p>
+
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Gladiator%27s_Nostalgia.png/revision/latest/scale-to-width-down/256?cb=20201120063313 " alt=”Gladiator Finale”>
+<p>Gladiator Finale</p>
+
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Item_Bloodstained_Flower_of_Iron.png/revision/latest/scale-to-width-down/256?cb=20201120063726  " alt=”Bloodstained Chivalry”>
+<p>Bloodstained Chivalry</p>
+
+</div>
+
+</body>
+</html>
