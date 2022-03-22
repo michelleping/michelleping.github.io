@@ -3,7 +3,7 @@
         <head>
             <title>GENSHIN BUILD</title>
             <h1>Greetings Travelers! Are you confused on how to build your 5 stars? We can help!</h1>
-            <a href ="newpage"> <button>Menu</button>
+            <a href ="newpage"> <button>Menu</button> </a>
               <button type=”button”>Character List</button>
               <button type=”button”>About Us</button>
               <img src=”https://preview.redd.it/vswgboq5vz561.png?width=640&crop=smart&auto=webp&s=a722556de50dd6b286b0419014c5ef011e163712” alt= “Paimon Happy”>
