@@ -1,7 +1,7 @@
 <!DOCTYPE html>
     <html>
         <head>
-            <title>GENSHIN BUILD</title>
+            <title style="color: #8C95A6;">GENSHIN BUILD</title>
             <h1>Greetings Travelers! Are you confused on how to build your 5 stars? We can help!</h1>
             <a href ="newpage"> <button>Menu</button> </a>
               <button type=”button”>Character List</button>
