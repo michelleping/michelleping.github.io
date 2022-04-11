@@ -63,6 +63,7 @@
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
   --bs-desc-bg: #f4eee5;
+  --bs-element-box-rgb: 244, 238, 229;
   --bs-greet-box: #d1d4dd;
   --bs-build-box: #f4eee8;
   --bs-option-box : #e3ccc2;
@@ -101,6 +102,12 @@
   .icon{
     width: 80px;
   }
+
+  .iconcryo{
+    background-image: url('https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg/revision/latest/scale-to-width-down/512?cb=20220119211508') !important; 
+    background-size: 100%;
+  }
+  
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -7982,7 +7989,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: rgba(var(--bs-element-box-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-secondary {
