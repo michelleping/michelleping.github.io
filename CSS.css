@@ -95,6 +95,9 @@
   .smaller-image{
     width : 100px;
   }
+  .small-image{
+    width: 120px;
+  }
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
