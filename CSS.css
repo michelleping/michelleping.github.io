@@ -92,7 +92,9 @@
     scroll-behavior: smooth;
   }
 }
-
+  .smaller-image{
+    width : 100px;
+  }
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
