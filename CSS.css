@@ -109,6 +109,10 @@
     background-size: 100%;
   }
   
+  .medium-image{
+    width : 250px;
+  }
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
