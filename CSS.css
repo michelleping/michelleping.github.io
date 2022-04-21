@@ -63,7 +63,7 @@
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
   --bs-desc-bg: #f4eee5;
-  --bs-element-box-rgb: 244, 238, 229;
+  --bs-element-box-rgb: 244, 238, 232;
   --bs-greet-box: #d1d4dd;
   --bs-build-box: #f4eee8;
   --bs-option-box : #e3ccc2;
@@ -95,7 +95,7 @@
   }
 }
   .smaller-image{
-    width : 100px;
+    width : 80px;
   }
   .small-image{
     width: 120px;
@@ -111,6 +111,10 @@
   
   .medium-image{
     width : 250px;
+  }
+
+  .character-page-character{
+    width: 200px;
   }
 
 body {
@@ -8035,6 +8039,11 @@ textarea.form-control-lg {
 .menu-thingy {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-menu-thingy-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.bg-element-box {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-element-box-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-black {
