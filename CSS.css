@@ -80,6 +80,7 @@
   --bs-thank-box : #fffbf5;
   --bs-line-under: #af7172;
   --bs-greet-box-rgb: 209, 212, 221;
+  --bs-menu-thingy-rgb: 222, 194, 183;
 }
 
 *,
@@ -8025,6 +8026,11 @@ textarea.form-control-lg {
 .bg-dark {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.menu-thingy {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-menu-thingy-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-black {
