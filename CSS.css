@@ -116,11 +116,19 @@
   .large-image{
     width: 450px;
   }
-  
+
   .character-page-character{
     width: 200px;
   }
 
+  .smallicon-character{
+    margin: 13px;
+  }
+
+  .height-margin{
+    margin-top: 20px;
+  }
+  
   .padding-element-box {
     padding-top: 30px;
     padding-bottom: 30px;
