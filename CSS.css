@@ -97,6 +97,11 @@
   .smaller-image{
     width : 80px;
   }
+
+  .paimon-image{
+    width: 100px;
+  }
+  
   .small-image{
     width: 120px;
   }
@@ -128,7 +133,7 @@
   .height-margin{
     margin-top: 20px;
   }
-  
+
   .padding-element-box {
     padding-top: 30px;
     padding-bottom: 30px;
