@@ -79,7 +79,7 @@
   --bs-hydro-artf: #e7f8fa; 
   --bs-thank-box : #fffbf5;
   --bs-line-under: #af7172;
-  
+  --bs-greet-box-rgb: 209, 212, 221;
 }
 
 *,
@@ -8019,7 +8019,7 @@ textarea.form-control-lg {
 
 .bg-light {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+  background-color: rgba(var(--bs-greet-box-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-dark {
