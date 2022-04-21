@@ -81,6 +81,7 @@
   --bs-line-under: #af7172;
   --bs-greet-box-rgb: 209, 212, 221;
   --bs-menu-thingy-rgb: 222, 194, 183;
+  --bs-cryodesc-rgb: 222, 238, 246;
 }
 
 *,
@@ -8075,6 +8076,11 @@ textarea.form-control-lg {
 .bg-element-box {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-element-box-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.bg-cryodesc-box {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-cryodesc-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-black {
