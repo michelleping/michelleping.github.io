@@ -82,6 +82,7 @@
   --bs-greet-box-rgb: 209, 212, 221;
   --bs-menu-thingy-rgb: 222, 194, 183;
   --bs-cryodesc-rgb: 222, 238, 246;
+  --bs-pyrodesc-rgb: 246, 225, 213;
 }
 
 *,
@@ -135,6 +136,9 @@
     margin-top: 50px;
   }
 
+  .right-margin{
+    margin-right: 50px;
+  }
   .padding-element-box {
     padding-top: 30px;
     padding-bottom: 30px;
@@ -145,6 +149,15 @@
     width: auto;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 50px;
+    grid-row-gap: 10px;
+  }
+
+  .character-pyro-container {
+    padding: 20px;
+    width: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 50px;
     grid-row-gap: 10px;
   }
@@ -8083,6 +8096,10 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-cryodesc-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.bg-pyrodesc-box {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-pyrodesc-rgb), var(--bs-bg-opacity)) !important;
+}
 .bg-black {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
