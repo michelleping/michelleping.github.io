@@ -83,6 +83,7 @@
   --bs-menu-thingy-rgb: 222, 194, 183;
   --bs-cryodesc-rgb: 222, 238, 246;
   --bs-pyrodesc-rgb: 246, 225, 213;
+  --bs-anemodesc-rgb: 218, 234, 220;
 }
 
 *,
@@ -8100,6 +8101,12 @@ textarea.form-control-lg {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-pyrodesc-rgb), var(--bs-bg-opacity)) !important;
 }
+
+.bg-anemodesc-box{
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-anemodesc-rgb), var(--bs-bg-opacity)) !important;
+}
+
 .bg-black {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
