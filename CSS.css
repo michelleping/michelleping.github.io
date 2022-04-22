@@ -86,6 +86,7 @@
   --bs-anemodesc-rgb: 218, 234, 220;
   --bs-geodesc-rgb: 250, 243, 228;
   --bs-electrodesc-rgb: 238, 224, 243;
+  --bs-hydrodesc-rgb: 231, 248, 250;
 }
 
 *,
@@ -8137,6 +8138,10 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-electrodesc-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.bg-hydrodesc-box{
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-hydrodesc-rgb), var(--bs-bg-opacity)) !important;
+}
 .bg-black {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
