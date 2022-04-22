@@ -82,6 +82,7 @@
   --bs-greet-box-rgb: 209, 212, 221;
   --bs-menu-thingy-rgb: 222, 194, 183;
   --bs-cryodesc-rgb: 222, 238, 246;
+  --bs-pyrodesc-rgb: 246, 225, 213;
 }
 
 *,
@@ -157,7 +158,7 @@
     grid-template-rows: 50px;
     grid-row-gap: 10px;
   }
-  
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -8092,6 +8093,10 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-cryodesc-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.bg-pyrodesc-box {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-pyrodesc-rgb), var(--bs-bg-opacity)) !important;
+}
 .bg-black {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
