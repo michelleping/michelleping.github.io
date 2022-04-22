@@ -163,6 +163,15 @@
     grid-row-gap: 10px;
   }
 
+  .character-geo-container {
+    padding: 20px;
+    width: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 50px;
+    grid-row-gap: 10px;
+  }
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
