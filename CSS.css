@@ -84,6 +84,7 @@
   --bs-cryodesc-rgb: 222, 238, 246;
   --bs-pyrodesc-rgb: 246, 225, 213;
   --bs-anemodesc-rgb: 218, 234, 220;
+  --bs-geodesc-rgb: 250, 243, 228;
 }
 
 *,
@@ -8114,6 +8115,11 @@ textarea.form-control-lg {
 .bg-anemodesc-box{
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-anemodesc-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.bg-geodesc-box{
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-geodesc-rgb), var(--bs-bg-opacity)) !important;
 }
 
 .bg-black {
