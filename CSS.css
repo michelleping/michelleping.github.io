@@ -87,6 +87,7 @@
   --bs-geodesc-rgb: 250, 243, 228;
   --bs-electrodesc-rgb: 238, 224, 243;
   --bs-hydrodesc-rgb: 231, 248, 250;
+  --bs-greetings-box-rgb: 209, 212, 221;
 }
 
 *,
@@ -120,6 +121,11 @@
     background-size: 100%;
   }
   
+  .iconanemo{
+    background-image: url('https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg/revision/latest/scale-to-width-down/512?cb=20220119211128') !important; 
+    background-size: 100%;
+  }
+
   .medium-image{
     width : 220px;
   }
@@ -8108,6 +8114,10 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-menu-thingy-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.greetings-box {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-greetings-box-rgb), var(--bs-bg-opacity)) !important;
+}
 .bg-element-box {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-element-box-rgb), var(--bs-bg-opacity)) !important;
