@@ -126,6 +126,26 @@
     background-size: 100%;
   }
 
+  .iconelectro{
+    background-image: url('https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg/revision/latest/scale-to-width-down/512?cb=20220119211156') !important; 
+    background-size: 100%;
+}
+
+  .iconpyro{
+    background-image: url('https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg/revision/latest/scale-to-width-down/512?cb=20220119211527') !important; 
+    background-size: 100%;
+}
+
+  .icongeo{
+    background-image: url('https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg/revision/latest/scale-to-width-down/512?cb=20220119211105') !important; 
+    background-size: 100%;
+  }
+
+  .iconhydro{
+    background-image: url('https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg/revision/latest/scale-to-width-down/512?cb=20220119211435') !important; 
+    background-size: 100%;
+  }
+
   .medium-image{
     width : 220px;
   }
