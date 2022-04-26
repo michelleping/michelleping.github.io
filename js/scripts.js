@@ -5,10 +5,10 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
-function revealText() {
+function revealTexteula() {
     document.getElementById("eulatext").style.display = 'block';
 }
-function hideText() {
+function hideTexteula() {
     document.getElementById("eulatext").style.display = 'none';
 }
 
