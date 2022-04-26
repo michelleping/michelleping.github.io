@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="CSS.css">
 <html lang="en">
+<script src="js/scripts.js"></script>
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -66,17 +67,21 @@
             </div>
         </div>
         <div class="gx-lg-5 character-cryo-container">
-            <div>
-                <a href="Cryo Build Eula.html">
+            <div class="container-character"> <!--kasih container character and div class name ke text-->
+                <a href="Cryo Build Eula.html" onmouseover="revealText()" onmouseleave="hideText()">
                     <img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Character_Eula_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210511040616https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Character_Eula_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210511040616" alt=”Eula” class="medium-image">
                 </a>
-                <p>Eula</p> 
+                <div id="eulatext" class="name-hover" >
+                    <p class="fs-3 fw-bold">E U L A</p>
+                </div> 
             </div>
-            <div >
-                <a href="Cryo Build Ganyu.html">
-                    <img src= "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Character_Ganyu_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210213162851" alt=”Ganyu” class="medium-image">
+            <div class="container-character">
+                <a href="Cryo Build Ganyu.html" onmouseover="revealTextganyu()" onmouseleave="hideTextganyu()">
+                    <img src= "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Character_Ganyu_Thumb.png/revision/latest/scale-to-width-down/256?cb=20210213162851" alt="Ganyu" id="ganyuImg" class="medium-image">
                 </a>
-                <p>Ganyu</p>
+                <div id="ganyutext" class="name-hover" >
+                    <p class="fs-3 fw-bold">G A N Y U</p>
+                </div> 
             </div>
             <div >
                 <a href="Cryo Build Ayaka.html">
@@ -102,7 +107,10 @@
 
     </div>
 </div>
-<footer class="py-5 menu-thingy" style="margin-top:200px;">
+<script src="js/scripts.js"></script>
+</body>
+<!-- ini diganti ke 100px-->
+<footer class="py-5 menu-thingy" style="margin-top:100px;">
     <div class="container"><p class="m-0 text-center text-white">Copyright &copy; GenshinBuilds</p></div>
 </footer>
 

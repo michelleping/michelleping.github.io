@@ -5,3 +5,16 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+function revealText() {
+    document.getElementById("eulatext").style.display = 'block';
+}
+function hideText() {
+    document.getElementById("eulatext").style.display = 'none';
+}
+
+function revealTextganyu() {
+    document.getElementById("ganyutext").style.display = 'block';
+}
+function hideTextganyu() {
+    document.getElementById("ganyutext").style.display = 'none';
+}
