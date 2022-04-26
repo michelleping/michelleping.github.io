@@ -43,7 +43,6 @@ function hideTextqiqi() {
 }
 
 //pyro
-
 function revealTexthutao() {
     document.getElementById("hutaotext").style.display = 'block';
 }
